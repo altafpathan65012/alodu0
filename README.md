@@ -38,7 +38,7 @@ Use these settings when adding a monitor:</b>
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/haridas008/alodu0">
+<a href="https://heroku.com/deploy?template=https://github.com/krishnarjun00/alodu0">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
